@@ -1,4 +1,4 @@
-module MetaDancing 
+module Dnace
   def twirl 
     "I'm twirling!" 
   end 
